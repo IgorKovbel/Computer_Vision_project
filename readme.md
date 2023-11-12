@@ -3,6 +3,8 @@
 
 The task is to analyze the images of the tic-tac-toe game, find the winner and draw the line that crosses the row of 3 marks (X or O). 
 
+![Result instance]([http://url/to/img.png](https://github.com/IgorKovbel/Computer_Vision_project/blob/main/results/tic_07.jpg))
+
 #### Deliverable: 
 
 * Working code (it should be possible to install all the necessary packages to run it from requirements.txt using pip).
