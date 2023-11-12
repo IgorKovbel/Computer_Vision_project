@@ -8,7 +8,6 @@ The task is to analyze the images of the tic-tac-toe game, find the winner and d
 #### Deliverable: 
 
 * Working code (it should be possible to install all the necessary packages to run it from requirements.txt using pip).
-* A short report [in English] on the principle of operation of your solution (better with some illustrations).
 * The initial game images with the line that crosses the straight line of 3 same marks.
 
 ## Navigate
